@@ -1,0 +1,33 @@
+*
+{
+    margin: 15px;
+}
+
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+h1{
+    font-size: 40px;
+    color: olive;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: wavy underline;
+    text-align: center;
+    padding: 10px;
+    border: 15px;
+    border-style:  dotted;
+}
+p {
+    color: black;
+    text-align: justify;
+    background-color: lightseagreen;
+}
+
+img {
+    width: 30%;
+    border-radius: 40%;
+    
+}
